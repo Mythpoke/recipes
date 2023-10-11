@@ -1,14 +1,28 @@
-h1 {
-    background-color:aqua;
-    text-align:center;
-    font-size:45px;
-}
-li {
-    font-size:25px;
-    background-color:bisque;
-}
-
-.num {
-    font-size:50px;
+.table {
+    width: 600px;
+    background-color: teal;
+    border: 5px solid black;
+    margin: 16 auto;
+    padding: 30px;
+    
 }
 
+.title {
+    background:aqua;
+    margin: 15px auto;
+    padding: 20px;
+    font-size: 45px;
+    text-align: center;
+}
+
+ul {
+    background: deepskyblue;
+    padding:40px;
+    margin: 15px auto;
+}
+
+.item {
+    margin:5px;
+    padding:5px;
+    background: aquamarine;
+}
